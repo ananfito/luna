@@ -4,16 +4,16 @@ This a tribute page I created for my dog Luna. She passed away on December 16, 2
 ## Contents
 
 - [Screenshot](#screenshot)
-- [Status](#status)
+- [Status: LIVE](#status)
 - [Connect](#connect)
 
 ## Screenshot
 
 ![the top of the web page featuring the header, an oval profile pic of a white dog](images/screenshot.png)
 
-## Status
+## Status: LIVE
 
-This project is complete and live at . 
+This project is complete and live at https://ananfito.github.io/luna. 
 
 ## Connect 
 
